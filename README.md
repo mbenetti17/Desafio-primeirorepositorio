@@ -1,2 +1,6 @@
-- Repositório do desafio DIO
-Desafio de projeto git/github
+# Primeiro Desafio com Git/Github
+
+
+
+- Teste // clonar repositório
+- Ok

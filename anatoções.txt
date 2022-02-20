@@ -1,0 +1,8 @@
+Anotações aula
+
+- Códigos importantes.
+
+git clone // clonar repositório
+git add -a ou . // enviar arquivos 
+git commit -m "mensagem" // commitar o arquivo
+git push origin main ou master // enviar para o github
